@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.12_AvisoFesta5\bin\release\net5.0\cs_1.12_AvisoFesta5.exe
+E:\GitHub\cs_1.12_AvisoFesta5\bin\release\net5.0\cs_1.12_AvisoFesta5.deps.json
+E:\GitHub\cs_1.12_AvisoFesta5\bin\release\net5.0\cs_1.12_AvisoFesta5.runtimeconfig.json
+E:\GitHub\cs_1.12_AvisoFesta5\bin\release\net5.0\cs_1.12_AvisoFesta5.runtimeconfig.dev.json
+E:\GitHub\cs_1.12_AvisoFesta5\bin\release\net5.0\cs_1.12_AvisoFesta5.dll
+E:\GitHub\cs_1.12_AvisoFesta5\bin\release\net5.0\ref\cs_1.12_AvisoFesta5.dll
+E:\GitHub\cs_1.12_AvisoFesta5\bin\release\net5.0\cs_1.12_AvisoFesta5.pdb
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.csprojAssemblyReference.cache
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.AssemblyInfo.cs
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.dll
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\ref\cs_1.12_AvisoFesta5.dll
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.pdb
+E:\GitHub\cs_1.12_AvisoFesta5\obj\release\net5.0\cs_1.12_AvisoFesta5.genruntimeconfig.cache
